@@ -1,0 +1,12 @@
+BOGGLE word find game solver.
+
+Algorithm: 
+ take game board (user input)
+ take list of known words (ENABLE word list)
+ for each word
+   see if it's in the game board
+   if so
+     print the word
+
+
+
